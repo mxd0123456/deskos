@@ -1,3 +1,2 @@
-# deskos
-暂时没有下载地址，网盘搭建中......
-Bilibili视频过年后发
+# Desk OS
+Desk OS V 1.8 震撼发布
